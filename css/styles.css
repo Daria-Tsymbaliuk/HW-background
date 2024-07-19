@@ -8,6 +8,6 @@ url(../pictures/hedgehog.webp) repeat-y,
 url(../pictures/donut.png) repeat-y,
 url(../pictures/house.webp) no-repeat ;
 background-color: green;
-background-size: 60px, 350px, 50px, 60px, 500px, cover;
+background-size: 50px, 350px, 50px, 60px, 500px, cover;
 background-position: top , bottom, left, right, center;
 }
